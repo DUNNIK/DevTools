@@ -1,3 +1,6 @@
 [submodule "OOP_Reports"]
 	path = OOP_Reports
 	url = https://github.com/TIove/OOP_Reports
+[submodule "ReportsLab"]
+	path = ReportsLab
+	url = https://github.com/DUNNIK/ReportsLab.git
